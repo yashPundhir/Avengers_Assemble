@@ -20,7 +20,7 @@ body {
 	justify-content: flex-start;
 	align-items: center;
 	border-radius: 20px;
-	background: linear-gradient(135deg, #151515, #808080);
+	background: linear-gradient(135deg, #101010, #606060);
 }
 .card img {
 	position: absolute;
@@ -68,4 +68,29 @@ body {
 	padding: 5px 15px;
 	border: none;
 	border-radius: 8px;
+}
+#superman {
+	background: linear-gradient(135deg, #aa2920, #347cd4);
+}
+
+#wonderwoman {
+	background: linear-gradient(135deg, #770c08, #383cc1);
+}
+#wonderwoman .content h2 {
+	width: 550px;
+}
+
+#aquaman {
+	background: linear-gradient(135deg, #268057, #e4b35a);
+}
+
+#flash {
+	background: linear-gradient(135deg, #742622, #d2a14a);
+}
+
+#blackadam {
+	background: linear-gradient(135deg, #242423, #ffe180);
+}
+#blackadam .content h2 {
+	width: 500px;
 }
