@@ -20,7 +20,7 @@ body {
 	justify-content: flex-start;
 	align-items: center;
 	border-radius: 20px;
-	background: linear-gradient(135deg, #101010, #606060);
+	background: linear-gradient(135deg, #101010 10%, #606060 90%);
 }
 .card img {
 	position: absolute;
@@ -89,7 +89,7 @@ body {
 }
 
 #blackadam {
-	background: linear-gradient(135deg, #242423, #ffe180);
+	background: linear-gradient(135deg, #242423 65%, #ffe180 146%);
 }
 #blackadam .content h2 {
 	width: 500px;
