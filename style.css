@@ -85,12 +85,19 @@ body {
 }
 
 #flash {
-	background: linear-gradient(135deg, #742622, #d2a14a);
+	background: linear-gradient(135deg, #742622 48%, #d2a14a 86%);
 }
 
 #blackadam {
-	background: linear-gradient(135deg, #242423 65%, #ffe180 146%);
+	background: linear-gradient(135deg, #242423 55%, #ffe180 146%);
 }
 #blackadam .content h2 {
 	width: 500px;
+}
+
+#ironman {
+	background: linear-gradient(135deg, #9f1e1c 40%, #c3a35a 82%);
+}
+#spiderman {
+	background: linear-gradient(135deg, #ca2b2b 2%, #7677a5 69%);
 }
