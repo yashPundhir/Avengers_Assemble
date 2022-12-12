@@ -101,3 +101,28 @@ body {
 #spiderman {
 	background: linear-gradient(135deg, #ca2b2b 2%, #7677a5 69%);
 }
+#captainamerica {
+	background: linear-gradient(135deg, #932a30 2%, #bec5ca, #47607e 69%);
+}
+#captainamerica .content h2 {
+	width: 550px;
+}
+
+#captainmarvel {
+	background: linear-gradient(135deg, #df5052 2%, #c9aa8a, #47607e 69%);
+}
+#captainmarvel .content h2 {
+	width: 550px;
+}
+#thor {
+	background: linear-gradient(135deg, #333939 22%, #2f79d1, #a12029 87%);
+}
+#doctorstrange {
+	background: linear-gradient(135deg, #414557 39%, #e5732e 50%, #93413c 73%);
+}
+#doctorstrange .content h2 {
+	width: 500px;
+}
+#hulk {
+	background: linear-gradient(135deg, #868656 20%, #424a42 53%);
+}
